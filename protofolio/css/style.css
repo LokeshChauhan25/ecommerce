@@ -1,0 +1,91 @@
+#first {
+    background-color: palevioletred;
+    padding-top: 15px;
+}
+
+.icons {
+    font-size: 35px;
+}
+
+#profile-img {
+    position: relative;
+    top: 35px;
+    left: 150px;
+    border-radius: 50%;
+    height: 320px;
+    width: 320px;
+}
+
+#second div h1 {
+    font-size: 120px;
+    color: gray;
+    opacity: 0.4;
+}
+
+#second {
+    padding: 60px 0px;
+}
+
+.second div h1 {
+    font-size: 120px;
+    color: gray;
+    opacity: 0.3;
+}
+
+.second{
+    padding: 60px 0px;
+}
+
+#about {
+    color: #555555;
+    font-size: 55px;
+}
+
+#me {
+    color: palevioletred;
+    font-size: 55px;
+}
+
+.navTabBg {
+    padding: 25px 100px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: palevioletred;
+}
+
+.nav-link {
+    color: #555555;
+    margin-top: 30px;
+}
+
+.nav-link:hover {
+    color: #555555;
+}
+
+.svg-size {
+    font-size: 30px;
+}
+
+#numbers-row {
+    background-color: palevioletred;
+}
+
+#profile {
+    color: palevioletred;
+}
+
+#experience {
+    color: palevioletred;
+}
+
+.text-center a {
+    color: white;
+
+}
+
+#education {
+    color: palevioletred;
+}
